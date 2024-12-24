@@ -1,2 +1,2 @@
-# wifi_dos-tropoja
-wifi-dos/tropoja
+# wifi_dos
+wifi-dos/
